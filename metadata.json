@@ -1,0 +1,6 @@
+{
+  "name": "The Fidget Game - Creative Director Studio",
+  "description": "AI Creative Director and Direct-Response Copywriting Architect for The Fidget Game, scaling educational toy ad creatives with high-converting scripts, UGC hooks, and visual prompts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
